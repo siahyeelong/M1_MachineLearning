@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Worked solutions of the M1 coursework 2026-27
 
 One Python script per step, `step1.py` to `step4.py`, run with the seed 0 of the handout. Your
