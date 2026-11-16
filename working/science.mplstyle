@@ -3,7 +3,7 @@ axes.prop_cycle : cycler('color', ['3073ae', '8fb359', 'e0a95c', 'd9729c', 'ff4e
 
 # --- Typography & Fonts (from nature.mplstyle) ---
 font.family : sans-serif
-font.sans-serif : DejaVu Sans, Arial, Helvetica, Lucida Grande, Verdana, Geneva, Lucid, Avant Garde, sans-serif
+font.sans-serif : Helvetica Neue, DejaVu Sans, Arial, Lucida Grande, Verdana, Geneva, Lucid, Avant Garde, sans-serif
 mathtext.fontset : dejavusans
 
 font.size : 12
